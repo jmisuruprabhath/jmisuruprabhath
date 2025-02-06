@@ -2,7 +2,7 @@
 
 <!-- Social media -->
 <a href="https://www.linkedin.com/in/isuru-prabhath-28b4911b6/">
-  <img align="left" alt="LinkedIn page of Isuru" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" />
+  <img align="left" alt="LinkedIn page of Isuru" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/jmisuruprabhath">
   <img align="left" alt="Twitter page of Isuru" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
