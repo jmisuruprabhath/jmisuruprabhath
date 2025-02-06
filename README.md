@@ -1,16 +1,5 @@
 # Hello There!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- Social media -->
-<a href="https://www.linkedin.com/in/isuru-prabhath-28b4911b6/">
-  <img align="left" alt="LinkedIn page of Isuru" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/jmisuruprabhath">
-  <img align="left" alt="Twitter page of Isuru" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/isuru.prabhath.7731">
-  <img align="left" alt="Facebook page of Isuru" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-
 <p>
 <!-- count visitors -->
 <a href="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
